@@ -3,8 +3,8 @@ My os lab in Nanjing University
 
 It contains 5 sub lab:
 
-> Bootloader  
-> System Calls  
-> Process Switching  
-> Process Synchronization  
-> File System  
+> Lab1 -- Bootloader  
+> Lab2 -- System Calls  
+> Lab3 -- Process Switching  
+> Lab4 -- Process Synchronization  
+> Lab5 -- File System  
